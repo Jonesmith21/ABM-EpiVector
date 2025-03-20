@@ -24,3 +24,4 @@ DOI: 10.5281/zenodo.15054478.
 [![DOI](https://zenodo.org/badge/951618161.svg)](https://doi.org/10.5281/zenodo.15054477)
 
 ## User guide
+[Online toolbox user guide example](./doc/UserGuide_ABM-EpiVector.html)
