@@ -18,7 +18,8 @@ The simulation progresses in **daily time steps**, where:
 
 Users can **define initial population conditions, modify transmission parameters, and extract data** for **epidemiological analysis**.  
 
-DOI: 10.5281/zenodo.15054478
+
+DOI: 10.5281/zenodo.15054478.
 [![DOI](https://zenodo.org/badge/951618161.svg)](https://doi.org/10.5281/zenodo.15054477)
 
 ## User guide
