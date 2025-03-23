@@ -19,7 +19,7 @@ The simulation progresses in **daily time steps**, where:
 Users can **define initial population conditions, modify transmission parameters, and extract data** for **epidemiological analysis**.  
 
 Cite this work as: Rojas-Díaz, Daniel and Ramírez-Echeverry, John Smith (2025). ABM-EpiVector 
-([https://www.github.com/drojasd/GSUA-CSB](https://jonesmith21.github.io/ABM-EpiVector/)), GitHub. Retrieved March , 2025.
+[https://www.github.com/drojasd/GSUA-CSB](https://jonesmith21.github.io/ABM-EpiVector/), GitHub. Retrieved March , 2025.
 
 DOI: 10.5281/zenodo.15054478.
 <br>
